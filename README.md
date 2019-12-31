@@ -7,3 +7,9 @@ tkinter
 pyttyx3
 Wikipedia
 datetime
+
+
+
+
+
+RUN main.py 
